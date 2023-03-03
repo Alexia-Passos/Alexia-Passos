@@ -2,7 +2,6 @@
 
 #### Always improving my Dev skill and trying to learn something new 💻 📚
 #### Favorite hobby: pretend to be a health and active person until it really happens 🏃🏽‍♀️🍎
-<br>
 
 ### You can find me here: 
 [![Linkedin](	https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/alexia-passos-664757111/)
@@ -11,8 +10,6 @@
 [![Gmail](	https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white)](alexia.gpassos@gmail.com)
 
 ![Alexia's GitHub stats](https://github-readme-stats.vercel.app/api?username=Alexia-Passos&show_icons=true&theme=radical)
-
-<br>
 
 ### My favorite Stacks:
 <div>
